@@ -1,10 +1,13 @@
 # Install programming languages
 $toolsList = @(
-    "python3"
+    "python"
     "pip"
-    "python2"
     "javaruntime"
     "jdk8"
+    "nodejs.install"
+    "yarn"
+    "golang"
+    "dart-sdk"
 );
 
 foreach ($tool in $toolsList) {
