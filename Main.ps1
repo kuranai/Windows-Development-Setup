@@ -62,4 +62,4 @@ foreach ($config in $configsList) {
 #--- reenabling critial items ---
 Enable-UAC
 Enable-MicrosoftUpdate
-Install-WindowsUpdate -acceptEula
+# Install-WindowsUpdate -acceptEula -- made some problems with a reboot loop
