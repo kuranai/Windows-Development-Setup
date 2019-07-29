@@ -41,10 +41,8 @@ $scriptsList = @(
 );
 
 $configsList = @(
-	"Adblock.ps1"
 	"RemoveDefaultApps.ps1"
 	"SystemConfiguration.ps1"
-	"TaskBar.ps1"
 	"FileExplorerSettings.ps1"
 	"Git.ps1"
 	"VSCode.ps1"
