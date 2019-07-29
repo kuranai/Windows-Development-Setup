@@ -3,20 +3,17 @@ $toolsList = @(
     "7zip.install"
     "sysinternals"
     "putty"
-    "ccleaner"
     "procexp"
     "curl"
     "wget"
-    "awscli"
-    "awstools.powershell"
     "lockhunter"
     "ditto"
     "conemu"
     "clink"
-    "slack"
     "everything"
-    "winmerge"
-    "lightshot"
+    "greenshot"
+    "beyondcompare"
+    "dbeaver"
 );
 
 foreach ($tool in $toolsList) {
