@@ -8,6 +8,7 @@ $toolsList = @(
     "yarn"
     "golang"
     "dart-sdk"
+    "elixir"
 );
 
 foreach ($tool in $toolsList) {
