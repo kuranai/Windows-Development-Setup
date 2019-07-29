@@ -14,6 +14,7 @@ $toolsList = @(
     "greenshot"
     "beyondcompare"
     "dbeaver"
+    "teamviewer.host"
 );
 
 foreach ($tool in $toolsList) {
