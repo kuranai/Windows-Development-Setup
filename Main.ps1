@@ -37,7 +37,6 @@ $scriptsList = @(
 	"ProgrammingLanguages.ps1"
 	"HyperV.ps1"
 	"WSL.ps1"
-	"Docker.ps1"
 );
 
 $configsList = @(
