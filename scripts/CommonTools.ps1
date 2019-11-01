@@ -1,6 +1,5 @@
 # tools we expect devs across many scenarios will want
 $toolsList = @(
-    "7zip.install"
     "sysinternals"
     "putty"
     "procexp"
@@ -14,7 +13,6 @@ $toolsList = @(
     "greenshot"
     "beyondcompare"
     "dbeaver"
-    "teamviewer.host"
 );
 
 foreach ($tool in $toolsList) {
